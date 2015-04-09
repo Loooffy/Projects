@@ -24,6 +24,7 @@ underline
 table|table|table
 -|-
 one|two|three
+three|two|one
 
 *Italic*
 **bold**
