@@ -34,7 +34,11 @@ one|two|three
 
 >blockquote
 
-`code`
+`inline code`
+
+    multiline code
+    multiline code
+    multiline code
 
 ~~crossout~~
 
